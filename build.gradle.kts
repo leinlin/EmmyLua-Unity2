@@ -9,9 +9,9 @@ plugins {
 }
 
 group = "com.cppcxy"
-version = "1.3.1"
+version = "1.3.2"
 
-val emmyluaUnityLsVersion = "1.3.1"
+val emmyluaUnityLsVersion = "1.3.2"
 val emmyluaUnityLsProjectUrl = "https://github.com/CppCXY/EmmyLua-Unity-LS"
 
 repositories {
